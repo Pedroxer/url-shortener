@@ -1,0 +1,9 @@
+{
+  "postgres": {
+    "address":"127.0.0.1",
+    "port": "5432",
+    "database": "ozon_fintech"
+  },
+  "ServerAddress": "127.0.0.1:8000",
+  "StorageType": "postgresql"
+}
