@@ -2,8 +2,11 @@
   "postgres": {
     "address":"127.0.0.1",
     "port": "5432",
-    "database": "ozon_fintech"
+    "database": "url_shortener",
+    "user": "root",
+    "password": "secret",
+    "ssl_mode": "disable"
   },
-  "ServerAddress": "127.0.0.1:8000",
-  "StorageType": "postgresql"
+  "server_port": "8080",
+  "env": "prod"
 }
